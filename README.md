@@ -1,3 +1,5 @@
 # Python-Text-Based-RPG
-Made in python
-Has saving functions
+A text RPG Made in Python
+Features - 
+  Has saving functions
+  
